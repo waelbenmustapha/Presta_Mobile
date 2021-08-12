@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "93940725778",
+    "project_id": "presta-65306",
+    "storage_bucket": "presta-65306.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93940725778:android:1ae94995bdd2edc56180cb",
+        "android_client_info": {
+          "package_name": "com.OneGateAfrica.Presta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93940725778-12s1imquirf01m357emmhp12v7h59vs7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmquVUlhdNGK09EVDfoYtgpP9RcwCIi9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93940725778-12s1imquirf01m357emmhp12v7h59vs7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
